@@ -1,0 +1,311 @@
+﻿  #1   .cpp
+  ByRef_ByVal.cpp
+  cls.cpp
+  clsStudent.cpp
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsStudent.cpp')
+  
+  DynamicArray.cpp
+  Friend Fun.cpp
+  Objects with Parameterized Constructor and Arraycpp.cpp
+  ObjectsAndVectors.cpp
+  Person Exercise.cpp
+  SimpleCalculater.cpp
+  clsScreen.cpp
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUser.h(203,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsScreen.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUser.h(166,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(205,12): warning C4240: nonstandard extension used: access to 'clsATM::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsScreen.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(125,12):
+      see declaration of 'clsATM::stTrnsferLogRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(189,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(195,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(200,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(245,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(256,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsManiger.h(204,12): warning C4240: nonstandard extension used: access to 'clsManiger::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsScreen.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsManiger.h(161,12):
+      see declaration of 'clsManiger::stLoginRegisterRecord'
+  
+  OPP __01 _ .cpp
+  OPP __02 _ .cpp
+  OPP __03 _ .cpp
+  OPP __04 _ .cpp
+  OPP __05 _ .cpp
+  OPP __06 _ .cpp
+  OPP __07 _ .cpp
+  OPP __08 _ .cpp
+  OPP __09 _ .cpp
+  Generating Code...
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(312,1): warning C4715: 'clsATM::Find': not all control paths return a value
+  Compiling...
+  OPP __10 _ .cpp
+  OPP __11 _ .cpp
+  OPP __12 _ .cpp
+  OPP __13 _ .cpp
+  OPP __14 _ .cpp
+  OPP __15 _ .cpp
+  OPP __16 _ .cpp
+  OPP __17 _ .cpp
+  OPP __18 _ .cpp
+  OPP __19 _ .cpp
+  OPP __20 _ .cpp
+  OPP __21 _ .cpp
+  OPP __22 _ .cpp
+  OPP __23 _ .cpp
+  OPP __24 _ .cpp
+  OPP __25 _ .cpp
+  OPP __26 _ .cpp
+  OPP __27 _ .cpp
+  OPP __28 _ .cpp
+  OPP __29 _ .cpp
+  Generating Code...
+  Compiling...
+  OPP __30 _ .cpp
+  OPP __31 _ .cpp
+  OPP __32 _ .cpp
+  OPP __33 _ .cpp
+  OPP __34 _ .cpp
+  OPP __35 _ .cpp
+  OPP __36 _ .cpp
+  OPP __37 _ .cpp
+  OPP __38 _ .cpp
+  OPP __39 _ .cpp
+  OPP __40 _ .cpp
+  OPP __41 _ .cpp
+  OPP __42 _ .cpp
+  OPP __43 _ .cpp
+  String Library 1   .cpp
+  String Library 2   .cpp
+  Date Library 1   .cpp
+  Date Library 2   .cpp
+  Test #1   .cpp
+  Test1 .cpp
+  Generating Code...
+  Compiling...
+  _____ 01 _____.cpp
+  _____ 02 _____.cpp
+  _____ 03 _____.cpp
+  _____ 04 ___#1__.cpp
+  _____ 05 ___#2__.cpp
+  _____ 06 ___#3__.cpp
+  _____ 07 ___#4__.cpp
+  _____ 08 ___#5__.cpp
+  _____ 09 ___#6__.cpp
+  Main menue .cpp
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUser.h(203,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUser.h(166,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(205,12): warning C4240: nonstandard extension used: access to 'clsATM::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(125,12):
+      see declaration of 'clsATM::stTrnsferLogRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(189,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(195,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(200,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(245,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(256,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsManiger.h(204,12): warning C4240: nonstandard extension used: access to 'clsManiger::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsManiger.h(161,12):
+      see declaration of 'clsManiger::stLoginRegisterRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(217,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+      C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(161,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(162,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(163,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(442,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(454,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsBankClient.h(485,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUpdateClientScreen.h(32,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsTotalBalancesScreen.h(100,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsTransferScreen.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsTransferScreen.h(49,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsAddNewUserScreen.h(126,17): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsCurrency.h(29,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATMQuickWithdrawScreen.h(98,21): warning C4244: 'initializing': conversion from 'short' to 'char', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATMNormalWithdraw.h(19,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATMNormalWithdraw.h(24,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATMDepositScreen.h(20,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsAddStudentScreen.h(44,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsFindStudentScreen.h(14,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsDeleteStudentScreen.h(21,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUpdateStudentScreen.h(41,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsAddNewManigerScreen.h(43,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsFindManigerScreen.h(19,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsUpdateManigerScreen.h(59,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsDeleteManigerScreen.h(19,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsManigerScreen.h(159,37): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsQueueLine.h(106,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+  _____ 10 ___#1__.cpp
+  _____ 10 ___#2__.cpp
+  _____ 10 ___#3__.cpp
+  _____ 10 ___#4__.cpp
+  Generating Code...
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\clsATM.h(312,1): warning C4715: 'clsATM::Find': not all control paths return a value
+  كورس رقم 10 عشرة محمد ابو هدهود OPP.vcxproj -> C:\Users\Ideapad Gaming\Downloads\My-GitHub\OPP 10 _ 11  ابو هدهود\x64\Debug\كورس رقم 10 عشرة محمد ابو هدهود OPP.exe

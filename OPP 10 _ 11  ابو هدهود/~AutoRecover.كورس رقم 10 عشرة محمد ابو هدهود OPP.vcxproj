@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{8a1d8041-d476-4694-9906-ef72ed773b91}</ProjectGuid>
+    <RootNamespace>كورسرقم10عشرةمحمدابوهدهودOPP</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="#1   .cpp" />
+    <ClCompile Include="ByRef_ByVal.cpp" />
+    <ClCompile Include="cls.cpp" />
+    <ClCompile Include="clsStudent.cpp" />
+    <ClCompile Include="DynamicArray.cpp" />
+    <ClCompile Include="Friend Fun.cpp" />
+    <ClCompile Include="Objects with Parameterized Constructor and Arraycpp.cpp" />
+    <ClCompile Include="ObjectsAndVectors.cpp" />
+    <ClCompile Include="Person Exercise.cpp" />
+    <ClCompile Include="SimpleCalculater.cpp" />
+    <ClCompile Include="clsScreen.cpp" />
+    <ClCompile Include="OPP __01 _ .cpp" />
+    <ClCompile Include="OPP __02 _ .cpp" />
+    <ClCompile Include="OPP __03 _ .cpp" />
+    <ClCompile Include="OPP __04 _ .cpp" />
+    <ClCompile Include="OPP __05 _ .cpp" />
+    <ClCompile Include="OPP __06 _ .cpp" />
+    <ClCompile Include="OPP __07 _ .cpp" />
+    <ClCompile Include="OPP __08 _ .cpp" />
+    <ClCompile Include="OPP __09 _ .cpp" />
+    <ClCompile Include="OPP __10 _ .cpp" />
+    <ClCompile Include="OPP __11 _ .cpp" />
+    <ClCompile Include="OPP __12 _ .cpp" />
+    <ClCompile Include="OPP __13 _ .cpp" />
+    <ClCompile Include="OPP __14 _ .cpp" />
+    <ClCompile Include="OPP __15 _ .cpp" />
+    <ClCompile Include="OPP __16 _ .cpp" />
+    <ClCompile Include="OPP __17 _ .cpp" />
+    <ClCompile Include="OPP __18 _ .cpp" />
+    <ClCompile Include="OPP __19 _ .cpp" />
+    <ClCompile Include="OPP __20 _ .cpp" />
+    <ClCompile Include="OPP __21 _ .cpp" />
+    <ClCompile Include="OPP __22 _ .cpp" />
+    <ClCompile Include="OPP __23 _ .cpp" />
+    <ClCompile Include="OPP __24 _ .cpp" />
+    <ClCompile Include="OPP __25 _ .cpp" />
+    <ClCompile Include="OPP __26 _ .cpp" />
+    <ClCompile Include="OPP __27 _ .cpp" />
+    <ClCompile Include="OPP __28 _ .cpp" />
+    <ClCompile Include="OPP __29 _ .cpp" />
+    <ClCompile Include="OPP __30 _ .cpp" />
+    <ClCompile Include="OPP __31 _ .cpp" />
+    <ClCompile Include="OPP __32 _ .cpp" />
+    <ClCompile Include="OPP __33 _ .cpp" />
+    <ClCompile Include="OPP __34 _ .cpp" />
+    <ClCompile Include="OPP __35 _ .cpp" />
+    <ClCompile Include="OPP __36 _ .cpp" />
+    <ClCompile Include="OPP __37 _ .cpp" />
+    <ClCompile Include="OPP __38 _ .cpp" />
+    <ClCompile Include="OPP __39 _ .cpp" />
+    <ClCompile Include="OPP __40 _ .cpp" />
+    <ClCompile Include="OPP __41 _ .cpp" />
+    <ClCompile Include="OPP __42 _ .cpp" />
+    <ClCompile Include="OPP __43 _ .cpp" />
+    <ClCompile Include="String Library 1   .cpp" />
+    <ClCompile Include="String Library 2   .cpp" />
+    <ClCompile Include="Date Library 1   .cpp" />
+    <ClCompile Include="Date Library 2   .cpp" />
+    <ClCompile Include="Test #1   .cpp" />
+    <ClCompile Include="Test1 .cpp" />
+    <ClCompile Include="_____ 01 _____.cpp" />
+    <ClCompile Include="_____ 02 _____.cpp" />
+    <ClCompile Include="_____ 03 _____.cpp" />
+    <ClCompile Include="_____ 04 ___#1__.cpp" />
+    <ClCompile Include="_____ 05 ___#2__.cpp" />
+    <ClCompile Include="_____ 06 ___#3__.cpp" />
+    <ClCompile Include="_____ 07 ___#4__.cpp" />
+    <ClCompile Include="_____ 08 ___#5__.cpp" />
+    <ClCompile Include="_____ 09 ___#6__.cpp" />
+    <ClCompile Include="Main menue .cpp" />
+    <ClCompile Include="_____ 10 ___#1__.cpp" />
+    <ClCompile Include="_____ 10 ___#2__.cpp" />
+    <ClCompile Include="_____ 10 ___#3__.cpp" />
+    <ClCompile Include="_____ 10 ___#4__.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsAddNewManigerScreen.h" />
+    <ClInclude Include="clsAddStudentScreen.h" />
+    <ClInclude Include="clsDeleteManigerScreen.h" />
+    <ClInclude Include="clsDeleteStudentScreen.h" />
+    <ClInclude Include="clsFindManigerScreen.h" />
+    <ClInclude Include="clsFindStudentScreen.h" />
+    <ClInclude Include="clsListManigersScreen.h" />
+    <ClInclude Include="clsLoginManigerScreen.h" />
+    <ClInclude Include="clsLoginRegisterScreen_Maniger.h" />
+    <ClInclude Include="clsManiger.h" />
+    <ClInclude Include="clsManigerScreen.h" />
+    <ClInclude Include="clsStudentsListScreen.h" />
+    <ClInclude Include="clsStudent.h" />
+    <ClInclude Include="clsStudentScreen.h" />
+    <ClInclude Include="clsAddNewClientScreen.h" />
+    <ClInclude Include="clsAddNewUserScreen.h" />
+    <ClInclude Include="clsATM.h" />
+    <ClInclude Include="clsATMCheckBalances.h" />
+    <ClInclude Include="clsATMDepositScreen.h" />
+    <ClInclude Include="clsATMLogin.h" />
+    <ClInclude Include="clsATMScreen.h" />
+    <ClInclude Include="clsBankClient.h" />
+    <ClInclude Include="clsChangePassword.h" />
+    <ClInclude Include="clsCurrenciesListScreen.h" />
+    <ClInclude Include="clsCurrency.h" />
+    <ClInclude Include="clsCurrencyCalculatorScreen.h" />
+    <ClInclude Include="clsCurrencyExchangeMainScreen.h" />
+    <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsDeleteUserScreen.h" />
+    <ClInclude Include="clsDepositScreen.h" />
+    <ClInclude Include="clsEmployee.h" />
+    <ClInclude Include="clsFindClientScreen.h" />
+    <ClInclude Include="clsFindCurrencyScreen.h" />
+    <ClInclude Include="clsFindUserScreen.h" />
+    <ClInclude Include="clsLoginRegisterScreen.h" />
+    <ClInclude Include="clsATMNormalWithdraw.h" />
+    <ClInclude Include="clsQueueLine.h" />
+    <ClInclude Include="clsATMQuickWithdrawScreen.h" />
+    <ClInclude Include="clsTransferLogScreen.h" />
+    <ClInclude Include="clsTransferScreen.h" />
+    <ClInclude Include="clsUpdateCurrencyRateScreen.h" />
+    <ClInclude Include="clsUpdateManigerScreen.h" />
+    <ClInclude Include="clsUpdateStudentScreen.h" />
+    <ClInclude Include="Gloabal_Maniger.h" />
+    <ClInclude Include="Global.h" />
+    <ClInclude Include="clsInputValidate.h" />
+    <ClInclude Include="clsLoginScreen.h" />
+    <ClInclude Include="clsMainScreen.h" />
+    <ClInclude Include="clsManageUsersScreen.h" />
+    <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsScreen.h" />
+    <ClInclude Include="clsClientListScreen.h" />
+    <ClInclude Include="clsString.h" />
+    <ClInclude Include="clsTotalBalancesScreen.h" />
+    <ClInclude Include="clsTransactionsScreen.h" />
+    <ClInclude Include="clsUpdateClientScreen.h" />
+    <ClInclude Include="clsUpdateUserScreen.h" />
+    <ClInclude Include="clsUser.h" />
+    <ClInclude Include="clsUsersListScreen.h" />
+    <ClInclude Include="clsUtil.h" />
+    <ClInclude Include="clsDeleteClientScreen.h" />
+    <ClInclude Include="clsWithdrawScreen.h" />
+    <ClInclude Include="Global_ATM.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="كورس رقم 10 عشرة محمد ابو هدهود OPP.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

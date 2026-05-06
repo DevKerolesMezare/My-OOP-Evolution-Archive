@@ -1,0 +1,40 @@
+﻿  #1   .cpp
+  Person Exercise.cpp
+  SimpleCalculater.cpp
+  clsScreen.cpp
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsScreen.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUser.h(203,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsScreen.cpp')
+  D:\keroles\OPP 10 _ 11  ابو هدهود\clsUser.h(166,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  Main menue .cpp
+  _____ 10 ___#2__.cpp
+  _____ 10 ___#3__.cpp
+  _____ 10 ___#4__.cpp
+  Generating code
+  273 of 274 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    170 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  كورس رقم 10 عشرة محمد ابو هدهود OPP.vcxproj -> D:\keroles\OPP 10 _ 11  ابو هدهود\x64\Release\كورس رقم 10 عشرة محمد ابو هدهود OPP.exe

@@ -1,0 +1,153 @@
+﻿  Main menue .cpp
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUser.h(203,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+  D:\keroles\OPP 10 _ 11  ابو هدهود\clsUser.h(166,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(205,12): warning C4240: nonstandard extension used: access to 'clsATM::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+  D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(125,12):
+  see declaration of 'clsATM::stTrnsferLogRecord'
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(189,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(195,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(200,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(245,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(256,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsManiger.h(204,12): warning C4240: nonstandard extension used: access to 'clsManiger::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+  D:\keroles\OPP 10 _ 11  ابو هدهود\clsManiger.h(161,12):
+  see declaration of 'clsManiger::stLoginRegisterRecord'
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(217,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main%20menue%20.cpp')
+  D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(152,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(161,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(162,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(163,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(442,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(454,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsBankClient.h(485,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUpdateClientScreen.h(32,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsTotalBalancesScreen.h(100,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsTransferScreen.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsTransferScreen.h(49,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsAddNewUserScreen.h(126,17): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsCurrency.h(29,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATMQuickWithdrawScreen.h(98,21): warning C4244: 'initializing': conversion from 'short' to 'char', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATMNormalWithdraw.h(19,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATMNormalWithdraw.h(24,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATMDepositScreen.h(20,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsAddStudentScreen.h(44,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsFindStudentScreen.h(14,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsDeleteStudentScreen.h(21,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUpdateStudentScreen.h(41,11): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsAddNewManigerScreen.h(43,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsFindManigerScreen.h(19,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsUpdateManigerScreen.h(59,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsDeleteManigerScreen.h(19,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsManigerScreen.h(159,37): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Main%20menue%20.cpp')
+  
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(312): warning C4715: 'clsATM::Find': not all control paths return a value
+D:\keroles\OPP 10 _ 11  ابو هدهود\clsATM.h(362): warning C4715: 'clsATM::Save': not all control paths return a value
+  كورس رقم 10 عشرة محمد ابو هدهود OPP.vcxproj -> D:\keroles\OPP 10 _ 11  ابو هدهود\x64\Debug\كورس رقم 10 عشرة محمد ابو هدهود OPP.exe
