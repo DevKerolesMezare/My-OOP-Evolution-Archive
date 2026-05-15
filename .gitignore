@@ -1,0 +1,13 @@
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.vcxproj.FileListAbsolute.txt
